@@ -12,8 +12,8 @@ https://github.com/user-attachments/assets/0dd65c76-b875-4edf-a2d1-b23c2743af1d
 
 ### 2. 路线导航
 基于真实的城市路网拓扑，系统能够精准计算并展示起点到终点的最优导航路线，完成基础的物流路径可视化。
-![路线导航](这里填入你的第一个GIF链接)
 
+https://github.com/user-attachments/assets/a1a94b88-f936-4046-bcf8-2d85c87e69d3
 
 ## 核心技术与特性
 
